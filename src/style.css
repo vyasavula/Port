@@ -14,7 +14,7 @@ section {
 }
 
 footer {
-  background-color: black;
+  background-color: #536162;
   color: white;
   text-align: center;
   padding: 80px;
@@ -79,7 +79,6 @@ h2 {
 }
 
 p {
-  margin-left: 20px;
   font-weight: 300;
   font-size: 30px;
 }
